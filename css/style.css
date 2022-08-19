@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(157, 228, 228);
+    border: 0;
+    padding: 0;
+    text-align: center;
+
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid rgb(218, 25, 0);
+}
+.container li{
+    padding: 5px;
+}
+
+    
+   
+    
+    
+    
